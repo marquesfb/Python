@@ -1,24 +1,5 @@
 # Curso de Programação IITC Módulo 01 - Aula 10 (18/05/2023)
 
-# QUESTÃO: Verficar se o número digitado é positivo, negativo ou zero.
-
-"""num = None
-
-while True:
-    try:
-        num = float(input('\nDigite um número: '))
-        if num == 0:
-            print(f'{num} é nulo.')
-        elif num > 0:
-            print(f'{num} é positivo.')
-        else:
-            print(f'{num} é negativo')
-        break
-    except ValueError:
-        print('Esse não é um número válido.')
-        continue
-"""
-
 # QUESTÃO: Pedra, papel, tesoura!
 
 import random
